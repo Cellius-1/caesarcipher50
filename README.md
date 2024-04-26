@@ -1,4 +1,4 @@
-### Caesar Cipher Lite
+# Caesar Cipher Lite
 
 **_A lightweight, no nonsense command line Caesar cipher._**
 
